@@ -1,9 +1,9 @@
 <img src="https://github.com/user-attachments/assets/cfe76690-0c57-4a29-9c2c-4b89cee16299" width="100%" alt="Nino Guinot Toffoli — Software developer, student at 42 Paris">
 
 <p align="center">
-  <a href="mailto:nino.guinottoffoli@gmail.com"><img src="https://img.shields.io/badge/Email-me-7c5cff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/nino-guinot-toffoli-09a8a61b8"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Open_to-internship_%C2%B7_Jan_2027-f472b6?style=for-the-badge" alt="Open to a 6-month internship from January 2027">
+  <a href="https://www.linkedin.com/in/nino-guinot-toffoli-09a8a61b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/%F0%9F%93%9E_%2B33_7_71_06_29_68-7c5cff?style=for-the-badge" alt="Phone: +33 7 71 06 29 68">
+  <a href="https://github.com/Swimni/Swimni/blob/main/Nino_Guinot_Toffoli_CV.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84_View_my_CV-f472b6?style=for-the-badge" alt="View my CV"></a>
 </p>
 
 🎓 Student at **42 Paris**, graduating in December 2026<br>
