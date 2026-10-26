@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="mailto:nino.guinottoffoli@gmail.com"><img src="https://img.shields.io/badge/Email-me-7c5cff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/TODO"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/nino-guinot-toffoli-09a8a61b8"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Open_to-internship_%C2%B7_Jan_2027-f472b6?style=for-the-badge" alt="Open to a 6-month internship from January 2027">
 </p>
 <!-- TODO: replace linkedin.com/in/TODO with your LinkedIn URL -->
 
-🎓 Student at **42 Paris**, graduating in December 2026 · 📱 Former **React Native developer at Wave App**<br>
+🎓 Student at **42 Paris**, graduating in December 2026 ·<br>
 🔀 From business & finance to code: I like turning real-world problems into algorithms<br>
 🎯 Looking for a **6-month internship** starting **January 2027**
 
