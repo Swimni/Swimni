@@ -17,7 +17,7 @@ I'm finishing the *Expert en Architecture Numérique* program at **42 Paris** (D
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**World Cup Simulator**](https://github.com/Swimni/NOM-DU-REPO) <!-- TODO : remplacer NOM-DU-REPO --> | Simulates the football and rugby World Cups with an ELO rating system borrowed from chess. Every run replays the whole tournament, so the winner can change from one simulation to the next. | Python |
+| [**World Cup Simulator**](https://github.com/Swimni/RWC-Simulator) <!-- TODO : remplacer NOM-DU-REPO --> | Simulates the football and rugby World Cups with an ELO rating system borrowed from chess. Every run replays the whole tournament, so the winner can change from one simulation to the next. | Python |
 | **Be the QB** | NFL Big Data Bowl 2026 × AWS hackathon. A quiz built on NFL Next Gen Stats that puts you in the quarterback's shoes on real plays: pick the best receiver and score points. | Kiro (AWS) |
 | **Restaurant cost tool** | Freelance project for restaurants and hotels: product and stock tracking, recipe cost sheets, and live menu costing as ingredient prices change. | Web · client project (private) |
 
