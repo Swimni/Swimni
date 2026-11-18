@@ -14,23 +14,32 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Swimni/cub3D"><img src="https://github.com/user-attachments/assets/7182f111-c0fb-4aaa-85c9-61abdf3f3696" width="250" alt="cub3D screenshot"></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Swimni/cub3D"><img src="https://github.com/user-attachments/assets/7182f111-c0fb-4aaa-85c9-61abdf3f3696" width="360" alt="cub3D screenshot"></a>
       <h4><a href="https://github.com/Swimni/cub3D">cub3D</a></h4>
       First-person 3D engine using raycasting, with textured walls and a minimap.<br>
       <sub><b>C</b> · MiniLibX · linear algebra</sub>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Swimni/Push_swap"><img src="https://github.com/user-attachments/assets/13d7e93f-8d49-4a54-a897-685196dd40e4" width="250" alt="Animated two-stack sort"></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Swimni/Push_swap"><img src="https://github.com/user-attachments/assets/13d7e93f-8d49-4a54-a897-685196dd40e4" width="360" alt="Animated two-stack sort"></a>
       <h4><a href="https://github.com/Swimni/Push_swap">Push_swap</a></h4>
       Sorts numbers with two stacks and 11 operations, in as few moves as possible.<br>
       <sub><b>C</b> · algorithms · complexity</sub>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Swimni/RWC-Simulator"><img src="https://github.com/user-attachments/assets/cfd448a5-8874-4b62-b4b3-3d1ce44d7299" width="250" alt="Animated tournament bracket"></a>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Swimni/RWC-Simulator"><img src="https://github.com/user-attachments/assets/cfd448a5-8874-4b62-b4b3-3d1ce44d7299" width="360" alt="Animated tournament bracket"></a>
       <h4><a href="https://github.com/Swimni/RWC-Simulator">World Cup Simulator</a></h4>
       Replays the football and rugby World Cups with ELO ratings. The winner changes every run.<br>
       <sub><b>Python</b> · ELO · simulation</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Swimni/Inception"><img src="https://raw.githubusercontent.com/Swimni/Inception/main/assets/inception_card.svg" width="360" alt="Animated diagram: an HTTPS request goes through the NGINX, WordPress and MariaDB containers"></a>
+      <h4><a href="https://github.com/Swimni/Inception">Inception</a></h4>
+      NGINX, WordPress and MariaDB in three Docker containers, built from scratch inside a VM.<br>
+      <sub><b>Docker</b> · NGINX · MariaDB</sub>
     </td>
   </tr>
 </table>
